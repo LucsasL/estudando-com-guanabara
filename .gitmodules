@@ -1,0 +1,9 @@
+[submodule "HTML5-CSS3-PTBR"]
+	path = HTML5-CSS3-PTBR
+	url = https://github.com/LucsasL/HTML5-CSS3-PTBR.git
+[submodule "JavaScript-PTBR"]
+	path = JavaScript-PTBR
+	url = https://github.com/LucsasL/JavaScript-PTBR.git
+[submodule "Java-PTBR"]
+	path = Java-PTBR
+	url = https://github.com/LucsasL/Java-PTBR.git
