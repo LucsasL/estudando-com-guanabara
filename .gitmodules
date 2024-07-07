@@ -4,6 +4,15 @@
 [submodule "JavaScript-PTBR"]
 	path = JavaScript-PTBR
 	url = https://github.com/LucsasL/JavaScript-PTBR.git
+[submodule "python-ptbr"]
+	path = python-ptbr
+	url = https://github.com/LucsasL/python-ptbr
 [submodule "Java-PTBR"]
 	path = Java-PTBR
 	url = https://github.com/LucsasL/Java-PTBR.git
+[submodule "MySQL-PTBR"]
+	path = MySQL-PTBR
+	url = https://github.com/LucsasL/MySQL-PTBR
+[submodule "Git-e-GitHub-PTBR"]
+	path = Git-e-GitHub-PTBR
+	url = https://github.com/LucsasL/Git-e-Github-PTBR
