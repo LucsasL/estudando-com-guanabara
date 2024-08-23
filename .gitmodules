@@ -16,3 +16,6 @@
 [submodule "Git-e-GitHub-PTBR"]
 	path = Git-e-GitHub-PTBR
 	url = https://github.com/LucsasL/Git-e-Github-PTBR
+[submodule "PHP-PTBR"]
+	path = PHP-PTBR
+	url = https://github.com/LucsasL/php-ptbr
